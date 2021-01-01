@@ -228,7 +228,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/a02jXeC1HIA?autoplay=1"
+                 "value":"https:\/\/www.youtube.com\/embed\/a02jXeC1HIA?autoplay=1&origin=https:\/\/it-economics.de"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -246,7 +246,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/k8Lw75gOZ5Q?autoplay=1"
+                 "value":"https:\/\/www.youtube.com\/embed\/k8Lw75gOZ5Q?autoplay=1&origin=https:\/\/it-economics.de"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -264,7 +264,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/OPVypJoJsD0?autoplay=1"
+                 "value":"https:\/\/www.youtube.com\/embed\/OPVypJoJsD0?autoplay=1&origin=https:\/\/it-economics.de"
                 }],
          "type":"tilelayer",
          "visible":true,
