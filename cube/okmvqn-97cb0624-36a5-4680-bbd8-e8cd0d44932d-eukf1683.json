@@ -22,7 +22,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":9,
          "x":0,
          "y":0
@@ -100,7 +100,7 @@
                  "value":"..\/muc.json#startInfra"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":9,
          "x":0,
          "y":0
@@ -124,31 +124,13 @@
          "y":0
         }, 
         {
-         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7240, 7240, 7240, 7240, 7240, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-         "height":9,
-         "id":28,
-         "name":"badgeEscaped",
-         "opacity":0,
-         "properties":[
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/rc3.cert.ccc.de\/cube_exit\/index.html"
-                }],
-         "type":"tilelayer",
-         "visible":true,
-         "width":9,
-         "x":0,
-         "y":0
-        }, 
-        {
          "draworder":"topdown",
          "id":3,
          "name":"floorLayer",
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }, 
@@ -165,7 +147,7 @@
                  "value":3
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":9,
          "x":0,
          "y":0
