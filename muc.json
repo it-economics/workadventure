@@ -57,12 +57,6 @@
          "id":50,
          "name":"exitCube",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"exitSceneUrl",
-                 "type":"string",
-                 "value":"cube\/0.json"
-                }],
          "type":"tilelayer",
          "visible":false,
          "width":86,
