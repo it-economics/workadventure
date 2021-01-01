@@ -210,7 +210,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/watch?v=a02jXeC1HIA"
+                 "value":"https:\/\/www.youtube.com\/embed\/a02jXeC1HIA"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -228,7 +228,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/watch?v=k8Lw75gOZ5Q"
+                 "value":"https:\/\/www.youtube.com\/embed\/k8Lw75gOZ5Q"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -246,7 +246,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/watch?v=OPVypJoJsD0"
+                 "value":"https:\/\/www.youtube.com\/embed\/OPVypJoJsD0"
                 }],
          "type":"tilelayer",
          "visible":true,
